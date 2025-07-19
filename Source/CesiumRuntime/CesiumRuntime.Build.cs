@@ -96,7 +96,8 @@ public class CesiumRuntime : ModuleRules
                 "Renderer",
                 "OpenSSL",
                 "Json",
-                "JsonUtilities"
+                "JsonUtilities",
+                "EnhancedInput"
             }
         );
 
